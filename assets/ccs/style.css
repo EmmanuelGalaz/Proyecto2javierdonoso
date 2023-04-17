@@ -38,8 +38,11 @@ body {
     
     height: 3em;
     line-height: 3em;
-    background-color: rgb(233, 70, 20);
+    background-color: hwb(120 41% 38%);
     color: white;
     text-align: center;
     font-weight: 900;
+}
+.logonegro{
+   
 }
